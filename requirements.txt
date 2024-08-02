@@ -18,6 +18,10 @@ frozenlist==1.4.1
 gitdb==4.0.11
 GitPython==3.1.43
 greenlet==3.0.3
+distro==1.9.0
+exceptiongroup==1.2.2
+gitdb==4.0.11
+GitPython==3.1.43
 h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.0
@@ -41,6 +45,13 @@ mypy-extensions==1.0.0
 numpy==1.26.4
 openai==1.37.1
 orjson==3.10.6
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+numpy==2.0.1
+openai==1.37.1
 packaging==24.1
 pandas==2.2.2
 pillow==10.4.0
@@ -72,3 +83,6 @@ typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
 yarl==1.9.4
+typing_extensions==4.12.2
+tzdata==2024.1
+urllib3==2.2.2
